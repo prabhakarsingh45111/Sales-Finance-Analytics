@@ -1,4 +1,4 @@
-📊 Atliq Hardware – Sales & Finance Analytics
+###📊 Atliq Hardware – Sales & Finance Analytics
 
 This repository contains sales and finance performance analytics for Atliq Hardware, covering customer sales, product performance, market insights, and financial profitability from 2019–2021.
 

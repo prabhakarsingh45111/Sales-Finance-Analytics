@@ -19,10 +19,10 @@ Division Level Report – Performance across key divisions:
 
 * PC: $165.8M (+314%)
 
-* Market Performance vs Target – 2021 actuals vs targets for 25+ countries. Overall, $598.9M vs $653.8M target (-8.4%)
+ Market Performance vs Target – 2021 actuals vs targets for 25+ countries. Overall, $598.9M vs $653.8M target (-8.4%)
 .
 
-* New Products (2021) – New launches contributed $176.2M, with strong performers like:
+ New Products (2021) – New launches contributed $176.2M, with strong performers like:
 
 * AQ Qwerty ($22.0M)
 
@@ -30,13 +30,13 @@ Division Level Report – Performance across key divisions:
 
 * AQ Wi Power Dx3 ($17.2M)
 
-* Profit & Loss (Year & Months) – Financial overview:
+ Profit & Loss (Year & Months) – Financial overview:
 
 * Net Sales: $598.9M (+304% vs 2020)
 
 * Gross Margin: $218.2M (GM% ~36.4%)
 
-* Top 5 Countries (2021) – Key revenue contributors:
+ Top 5 Countries (2021) – Key revenue contributors:
 
 * India ($161.3M)
 
@@ -48,10 +48,26 @@ Division Level Report – Performance across key divisions:
 
 * UK ($34.2M)
 
-* Top 10 Products – High-growth products like AQ Smash 2 (+2489%) and AQ Mx NB (+5623%)
+ Top 10 Products – High-growth products like AQ Smash 2 (+2489%) and AQ Mx NB (+5623%)
 .
 
 Top & Bottom 5 Products –
+
+Top
+
+* AQ Gamers Ms 4.0M
+* AQ Master wired x1 Ms 4.2M
+* AQ Master wireless x1 3.4M
+* AQ Master wireless x1 Ms 4.1M
+
+Bottom 
+
+* AQ Gamer 1 51.7k
+* AQ GEN Z 63.1k
+* AQ Home Allin1 15.2k
+* AQ HOME Allin1 Gen 2 8.9k
+* AQ Smash 2 36.0k
+
 
 Top Sellers: AQ Master Series & AQ Gamers (~19M units total)
 

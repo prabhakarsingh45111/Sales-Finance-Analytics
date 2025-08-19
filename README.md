@@ -125,8 +125,6 @@ Metrics: YoY Growth, GM%, Target vs Actual, Product-wise sales
 
 ---
 
-## 📽 Demo
-
 
 ---
 
